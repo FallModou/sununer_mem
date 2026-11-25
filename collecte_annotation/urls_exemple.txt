@@ -1,0 +1,24 @@
+# Une URL par ligne. Les lignes commençant par # sont ignorées.
+# Collez ici les URLs d'articles (pas les pages d'accueil).
+#
+# Français sénégalais (entités locales garanties) :
+# https://www.seneweb.com/news/Politique/...
+# https://www.dakaractu.com/...
+# https://aps.sn/...
+# https://lesoleil.sn/...
+
+
+# liens seneweb rubrique politique
+https://www.seneweb.com/fr/news/9/cest-haram-la-mise-au-point-ferme-dousmane-sonko_n_497956.html
+https://www.seneweb.com/fr/news/9/macky-sall-a-dakar-la-date-de-sa-rencontre-avec-diomaye-faye-connue_n_497965.html
+https://www.seneweb.com/fr/news/9/il-ny-aura-plus-de-referendum-cest-clair-et-net-lannonce-radicale-de-serigne-gueye-diop_n_497969.html
+https://www.seneweb.com/fr/news/9/mbam-dr-el-mansour-diop-regle-ses-comptes-avec-ses-detracteurs-de-pastef-et-interpelle-publiquement-ousmane-sonko_n_497942.html
+
+
+
+#
+# Wolof écrit :
+# https://defuwaxu.com/...   (Lu Defu Waxu, journal en wolof)
+#
+# Astuce : pour trouver rapidement des articles, parcourez les rubriques
+# Politique / Société / Religion — riches en entités PER, LOC, ORG, REL.
